@@ -38,7 +38,8 @@ body {
   input[type='submit'] {
     margin: 2em auto;
     color: #f3f3f3;
-    background-color: #37af65
+    background-color: #37af65;
+    font-size: 18px;
   }
   div {
     margin-bottom: 1.5rem;
